@@ -1,16 +1,15 @@
-### Hi there 👋
+### Sheeeesh! This is where I post some of my code 👋 
 
-<!--
-**KevzPeter/KevzPeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kevzpeter&show_icons=true&theme=yeblu)]() 
 
-Here are some ideas to get you started:
+#### Check out my socials! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="Kevin Peter | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank"/>][linkedIn] 
+[<img align="left" alt="kevzpeter | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" target="_blank"/>][instagram] 
+[linkedIn]: https://www.linkedin.com/in/kevinpeterk/ 
+[instagram]: https://www.instagram.com/kevzpeter/ 
+<br/> 
+
+🤨📸 
+<br/> 
+![](https://visitor-badge.glitch.me/badge?page_id=KevzPeter.Kevzpeter)
