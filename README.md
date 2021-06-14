@@ -1,17 +1,20 @@
-### Sheeeesh! This is where I post some of my code 👋 
+### Hey 🤙 This is where I post some of my code 💻
 
-[![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kevzpeter&show_icons=true&theme=yeblu)]() 
+[![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kevzpeter&show_icons=true&theme=yeblu)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevzpeter&langs_count=8&theme=yeblu)]()
 
-#### Check out my socials! 
+#### Check out my socials 👇
 
-[<img align="left" alt="Kevin Peter | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank"/>][linkedIn] 
-[<img align="left" alt="kevzpeter | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" target="_blank"/>][instagram] 
+<p>
+  <a href="https://www.linkedin.com/in/kevinpeterk"><img width="25" height="25" src="/icons/linkedin.svg"></a>
+  &nbsp;
+  <a href="https://www.instagram.com/kevzpeter"><img width="25" height="25" src="/icons/instagram.svg"></a>
+  &nbsp;
+  <a href="https://open.spotify.com/user/kevzpeter"><img width="25" height="25" src="/icons/spotify.svg"></a>
+   &nbsp;
+</p>
+<br/>
 
-[linkedIn]: https://www.linkedin.com/in/kevinpeterk/ 
-
-[instagram]: https://www.instagram.com/kevzpeter/ 
-<br/> 
-
-🤨📸 
-<br/> 
+🤨📸
+<br/>
 ![](https://visitor-badge.glitch.me/badge?page_id=KevzPeter.Kevzpeter)
