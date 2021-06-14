@@ -1,7 +1,10 @@
 ### Hey 🤙 This is where I post some of my code 💻
 
-[![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kevzpeter&show_icons=true&theme=yeblu)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevzpeter&langs_count=8&theme=yeblu)]()
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=kevzpeter&show_icons=true&theme=yeblu" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevzpeter&layout=compact&langs_count=8&theme=yeblu" />
+</p>
 
 #### Check out my socials 👇
 
@@ -14,7 +17,6 @@
    &nbsp;
 </p>
 <br/>
-
 🤨📸
 <br/>
 ![](https://visitor-badge.glitch.me/badge?page_id=KevzPeter.Kevzpeter)
