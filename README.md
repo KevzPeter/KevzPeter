@@ -12,12 +12,9 @@
 
 ### About
 
-<p align>
-I'm a senior pursuing Computer Science Engineering at [Manipal University Jaipur](https://jaipur.manipal.edu/)
+I'm a senior pursuing Computer Science Engineering at [Manipal University Jaipur](https://jaipur.manipal.edu "College website!")
 
 I ❤ football, photography, editing videos, astronomy, lo-fi music and all things tech
-
-</p>
 
 ### Check out my socials 👇
 
@@ -29,9 +26,7 @@ I ❤ football, photography, editing videos, astronomy, lo-fi music and all thin
   <a href="https://open.spotify.com/user/kevzpeter"><img width="25" height="25" src="/icons/spotify.svg"></a>
    &nbsp;
 </p>
-<br/>
 
 ### Thanks for stopping by!
 
-<br/>
-![](https://visitor-badge.glitch.me/badge?page_id=KevzPeter.Kevzpeter)
+![👀](https://visitor-badge.glitch.me/badge?page_id=KevzPeter.Kevzpeter)
