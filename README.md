@@ -29,7 +29,7 @@ I ❤ football, photography, editing videos, astronomy, lo-fi music and all thin
 
 ### What I've been listening to 🎵
 
-![Recently Played Songs](https://spotify-recently-played-readme.vercel.app/api?user=kevzpeter&count={3})
+![Recently played songs](https://spotify-recently-played-readme.vercel.app/api?user=kevzpeter)
 
 ### Thanks for stopping by!
 
