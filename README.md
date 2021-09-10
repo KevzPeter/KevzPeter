@@ -2,7 +2,7 @@
 <img src="/gifs/cmd.gif">
 </p>
 
-### Hey 🤙 I'm Kevin and this is where I post some of my code 💻
+## Hey! I'm Kevin and this is where I post some of my code 💻
 
 ### About
 
@@ -10,7 +10,9 @@ I'm a senior pursuing Computer Science Engineering at [Manipal University Jaipur
 
 I ❤ football, photography, editing videos, astronomy, lo-fi music and all things tech
 
-<p align="center">
+### Stats for nerds 📈
+
+<p>
 <img src="https://github-readme-stats.vercel.app/api?username=kevzpeter&show_icons=true&theme=yeblu" />
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevzpeter&layout=compact&langs_count=8&theme=yeblu" />
