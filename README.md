@@ -4,17 +4,21 @@
 
 ### Hey 🤙 I'm Kevin and this is where I post some of my code 💻
 
+### About
+
+I'm a senior pursuing Computer Science Engineering at [Manipal University Jaipur](https://jaipur.manipal.edu "College website!")
+
+I ❤ football, photography, editing videos, astronomy, lo-fi music and all things tech
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=kevzpeter&show_icons=true&theme=yeblu" />
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevzpeter&layout=compact&langs_count=8&theme=yeblu" />
 </p>
 
-### About
+### What I've been listening to 🎵
 
-I'm a senior pursuing Computer Science Engineering at [Manipal University Jaipur](https://jaipur.manipal.edu "College website!")
-
-I ❤ football, photography, editing videos, astronomy, lo-fi music and all things tech
+![Recently played songs](https://spotify-recently-played-readme.vercel.app/api?user=kevzpeter)
 
 ### Check out my socials 👇
 
@@ -26,10 +30,6 @@ I ❤ football, photography, editing videos, astronomy, lo-fi music and all thin
   <a href="https://open.spotify.com/user/kevzpeter"><img width="25" height="25" src="/icons/spotify.svg"></a>
    &nbsp;
 </p>
-
-### What I've been listening to 🎵
-
-![Recently played songs](https://spotify-recently-played-readme.vercel.app/api?user=kevzpeter)
 
 ### Thanks for stopping by!
 
