@@ -1,8 +1,4 @@
-<p align="center">
-<img src="/gifs/cmd.gif">
-</p>
-
-## Hey! I'm Kevin and this is where I post some of my code 💻
+## Hey, I'm Kevin! 
 
 ### About
 
