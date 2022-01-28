@@ -1,26 +1,24 @@
-## Hey, I'm Kevin! 
+<h1>Hey! I'm Kevin</h1>
 
-### About
+<h2>About 🤠</h2>
 
-I'm a senior pursuing Computer Science Engineering at [Manipal University Jaipur](https://jaipur.manipal.edu "College website!")
+I'm a senior pursuing Computer Science & Engineering at [Manipal University Jaipur](https://jaipur.manipal.edu "College website!")
 
 I ❤ football, photography, editing videos, astronomy, lo-fi music and all things tech
 
-### Stats for nerds 📈
+<h2>Stats for nerds 📈</h2>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=kevzpeter&show_icons=true&theme=yeblu" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevzpeter&layout=compact&langs_count=8&theme=yeblu" />
+<img src="https://github-readme-stats.vercel.app/api?username=kevzpeter&border_radius=10px&title_color=fff&text_color=fff&show_icons=true&bg_color=45,00f260,0575e6&icon_color=212121&hide_border=true" />
 </p>
 
-### What I've been listening to 🎵
+<h2>What I've been listening to 🎵</h2>
 
 ![Recently played songs](https://spotify-recently-played-readme.vercel.app/api?user=kevzpeter)
 
-### Check out my socials 👇
+<h2>Let's connect 👇</h2>
 
-<p >
+<p>
   <a href="https://www.linkedin.com/in/kevinpeterk"><img width="25" height="25" src="/icons/linkedin.svg"></a>
   &nbsp;
   <a href="https://www.instagram.com/kevzpeter"><img width="25" height="25" src="/icons/instagram.svg"></a>
@@ -29,6 +27,6 @@ I ❤ football, photography, editing videos, astronomy, lo-fi music and all thin
    &nbsp;
 </p>
 
-### Thanks for stopping by!
+<h2>Thanks for stopping by 😄</h2>
 
 ![👀](https://visitor-badge.glitch.me/badge?page_id=KevzPeter.Kevzpeter)
