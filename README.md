@@ -2,9 +2,13 @@
 
 <h2>About 🤠</h2>
 
-I'm a senior pursuing Computer Science & Engineering at [Manipal University Jaipur](https://jaipur.manipal.edu "College website!")
+I code for fun.
 
-I ❤ football, photography, editing videos, astronomy, lo-fi music and all things tech
+I recently graduated from [Manipal University Jaipur](https://jaipur.manipal.edu "College website!") with a bachelor's degree in Computer Science & Engineering.
+
+I ❤ football, photography, editing videos, astronomy, lo-fi music and all things tech.
+
+Checkout my personal website 👉🏽 [kevzpeter.com](https://kevzpeter.com)
 
 <h2>Stats for nerds 📈</h2>
 
