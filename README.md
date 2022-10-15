@@ -1,6 +1,6 @@
 <h1>Hey! I'm <a href="https://kevzpeter.com">Kevin</a></h1>
 
-<h2>About 🤠</h2>
+<h2>About Me 🤠</h2>
 
 I code for fun.
 
@@ -30,6 +30,10 @@ Checkout my personal website 👉🏽 [kevzpeter.com](https://kevzpeter.com)
   <a href="https://open.spotify.com/user/kevzpeter"><img width="25" height="25" src="/icons/spotify.svg"></a>
    &nbsp;
 </p>
+
+<h2>HOLOPIN Board ❇️</h2>
+
+[![@kevzpeter's Holopin board](https://holopin.me/kevzpeter)](https://holopin.io/@kevzpeter)
 
 <h2>Thanks for stopping by 😄</h2>
 
