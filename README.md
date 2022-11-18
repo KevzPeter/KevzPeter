@@ -31,10 +31,6 @@ Checkout my personal website 👉🏽 [kevzpeter.com](https://kevzpeter.com)
    &nbsp;
 </p>
 
-<h2>HOLOPIN Board ❇️</h2>
-
-[![@kevzpeter's Holopin board](https://holopin.me/kevzpeter)](https://holopin.io/@kevzpeter)
-
 <h2>Thanks for stopping by 😄</h2>
 
 ![👀](https://visitor-badge.glitch.me/badge?page_id=KevzPeter.Kevzpeter)
