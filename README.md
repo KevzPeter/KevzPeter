@@ -34,10 +34,6 @@ Checkout my personal website 👉🏽 [kevzpeter.com](https://kevzpeter.com)
 
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=kevzpeter&theme=beach&filter=daily)
 
-<!-- <h2>HOLOPIN Board ❇️</h2> -->
-
-<!-- [![@kevzpeter's Holopin board](https://holopin.me/kevzpeter)](https://holopin.io/@kevzpeter) -->
-
 <h2>Thanks for stopping by 😄</h2>
 
 ![👀](https://visitor-badge.glitch.me/badge?page_id=KevzPeter.Kevzpeter)
