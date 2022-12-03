@@ -30,10 +30,13 @@ Checkout my personal website 👉🏽 [kevzpeter.com](https://kevzpeter.com)
   <a href="https://open.spotify.com/user/kevzpeter"><img width="25" height="25" src="/icons/spotify.svg"></a>
    &nbsp;
 </p>
+<br></br>
 
-<h2>HOLOPIN Board ❇️</h2>
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=kevzpeter&theme=beach&filter=daily)
 
-[![@kevzpeter's Holopin board](https://holopin.me/kevzpeter)](https://holopin.io/@kevzpeter)
+<!-- <h2>HOLOPIN Board ❇️</h2> -->
+
+<!-- [![@kevzpeter's Holopin board](https://holopin.me/kevzpeter)](https://holopin.io/@kevzpeter) -->
 
 <h2>Thanks for stopping by 😄</h2>
 
