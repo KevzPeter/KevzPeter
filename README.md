@@ -32,7 +32,7 @@ Checkout my personal website 👉🏽 [kevzpeter.com](https://kevzpeter.com)
 </p>
 <br></br>
 
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=kevzpeter&theme=beach&filter=daily)
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=kevzpeter&theme=beach&filter=comp)
 
 <h2>Thanks for stopping by 😄</h2>
 
