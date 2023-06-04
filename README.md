@@ -31,12 +31,21 @@ Checkout my personal website 👉🏽 [kevzpeter.com](https://kevzpeter.com)
 <h2>⚡ Socials</h2>
 <br />
 <p>
-  <a href="https://www.linkedin.com/in/kevinpeterk"><img width="25" height="25" src="/icons/linkedin.svg"></a>
-  &nbsp;
-  <a href="https://www.instagram.com/kevzpeter"><img width="25" height="25" src="/icons/instagram.svg"></a>
-  &nbsp;
-  <a href="https://open.spotify.com/user/kevzpeter"><img width="25" height="25" src="/icons/spotify.svg"></a>
-   &nbsp;
+  <a href="https://www.linkedin.com/in/kevinpeterk">
+    <img width="25" height="25" src="/icons/linkedin.svg">
+    <span>LinkedIn</span>
+  </a> 
+  <br />
+  <a href="https://www.instagram.com/kevzpeter">
+    <img width="25" height="25" src="/icons/instagram.svg">
+    <span>Instagram</span>
+  </a> 
+  <br />
+  <a href="https://open.spotify.com/user/kevzpeter">
+    <img width="25" height="25" src="/icons/spotify.svg">
+    <span>Spotify</span>
+  </a> 
+  <br />
 </p>
 <br />
 
