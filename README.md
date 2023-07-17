@@ -25,7 +25,7 @@ Checkout my personal website 👉🏽 [kevzpeter.com](https://kevzpeter.com)
 <h2>🧑🏽‍💻 LeetCode</h2>
 <br />
 
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=kevzpeter&theme=beach&filter=comp)
+![LeetCode Badges (Refresh page to load image)](https://leetcode-badge-showcase.vercel.app/api?username=kevzpeter&theme=beach&filter=comp)
 <br />
 
 <h2>⚡ Socials</h2>
