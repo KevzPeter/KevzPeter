@@ -13,7 +13,7 @@ Checkout my personal website 👉🏽 [kevzpeter.com](https://kevzpeter.com)
 <h2>📈 Stats for nerds</h2>
 <br />
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=kevzpeter&border_radius=10px&title_color=fff&text_color=fff&show_icons=true&bg_color=45,00f260,0575e6&icon_color=212121&hide_border=true" />
+<img src="https://github-readme-stats-5udv09b4j-kevzpeter.vercel.app/api?username=kevzpeter&border_radius=10px&title_color=fff&text_color=fff&show_icons=true&bg_color=45,00f260,0575e6&icon_color=212121&hide_border=true&rank_icon=github" />
 </p>
 <br />
 <h2>🎵 What I've been listening to</h2>
@@ -30,7 +30,7 @@ Checkout my personal website 👉🏽 [kevzpeter.com](https://kevzpeter.com)
 
 <h2>⚡ Socials</h2>
 <br />
-<p>
+<div style="display: flex; gap: 1rem;">
   <a href="https://www.linkedin.com/in/kevinpeterk">
     <img width="25" height="25" src="/icons/linkedin.svg">
     <span>LinkedIn</span>
@@ -46,7 +46,7 @@ Checkout my personal website 👉🏽 [kevzpeter.com](https://kevzpeter.com)
     <span>Spotify</span>
   </a> 
   <br />
-</p>
+</div>
 <br />
 
 <h2>😄 Thanks for stopping by</h2>
