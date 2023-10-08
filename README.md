@@ -14,7 +14,7 @@ I ❤ football, photography, editing videos, astronomy, lo-fi music and all thin
 
 👉🏽 Hop onto my personal website  [kevzpeter.com](https://kevzpeter.com)
 
-💼 Connect with me on [LinkedIn](https://linkedin.com/kevinpeterk)
+💼 Connect with me on [LinkedIn](https://linkedin.com/in/kevinpeterk)
 
 🧑🏽‍💻 Checkout my coding profile on [LeetCode](https://leetcode.com/kevzpeter)
 
