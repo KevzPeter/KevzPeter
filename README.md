@@ -36,7 +36,7 @@ I ❤ football, photography, editing videos, astronomy, lo-fi music and all thin
 
 ### 🦉 Duolingo
 
-![Duolingo Badges (Refresh page to load image)](https://leetcode-badge-showcase-git-duolingo-stats-kevzpeter.vercel.app/api?id=23141883&theme=leafy)
+![Duolingo Badges (Refresh page to load image)](https://duolingo-stats-card.vercel.app/api?id=23141883&theme=leafy)
 <br />
 
 ### 😄 Thanks for stopping by
