@@ -36,7 +36,7 @@ I ❤ football, photography, editing videos, astronomy, lo-fi music and all thin
 
 ### 🦉 Duolingo
 
-![Duolingo Badges (Refresh page to load image)](https://duolingo-stats-card.vercel.app/api?id=23141883)
+![Duolingo Badges (Refresh page to load image)](https://duolingo-stats-card.vercel.app/api?username=Kevin_Peter)
 <br />
 
 ### 😄 Thanks for stopping by
