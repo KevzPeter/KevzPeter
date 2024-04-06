@@ -8,7 +8,7 @@
 I code for fun.
 <br />
 
-I recently graduated from [Manipal University Jaipur](https://jaipur.manipal.edu "College website!") with a bachelor's degree in Computer Science & Engineering.
+I'm currently working as a Software Consulting Engineer at Cisco. I graduated from [Manipal University Jaipur](https://jaipur.manipal.edu "College website!") with a bachelor's degree in Computer Science & Engineering.
 
 I ❤ football, photography, editing videos, astronomy, lo-fi music and all things tech.
 
