@@ -18,8 +18,6 @@ I ❤ football, photography, editing videos, astronomy, lo-fi music and all thin
 
 🧑🏽‍💻 Checkout my coding profile on [LeetCode](https://leetcode.com/kevzpeter)
 
-🎧 Wanna create a blended playlist on [Spotify?](https://open.spotify.com/user/kevzpeter)
-
 ### 📈 Stats for nerds
 
 ![Github Readme Stats](https://github-readme-stats-5udv09b4j-kevzpeter.vercel.app/api?username=kevzpeter&border_radius=10px&title_color=fff&text_color=fff&show_icons=true&bg_color=45,00f260,0575e6&icon_color=212121&hide_border=true&rank_icon=github)
