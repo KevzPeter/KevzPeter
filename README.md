@@ -31,7 +31,7 @@ I ❤ football, photography, editing videos, astronomy, lo-fi music and all thin
 
 ### 🧑🏽‍💻 LeetCode
 
-![LeetCode Badges (Refresh page to load image)](https://leetcode-badge-showcase.vercel.app/api?username=kevzpeter&theme=beach&filter=comp)
+![LeetCode Badges (Refresh page to load image)](https://leetcode-badge-showcase.vercel.app/api?username=kevzpeter&theme=beach&filter=comp&animated=true)
 <br />
 
 ### 🦉 Duolingo
