@@ -55,6 +55,6 @@
     🦉 Duolingo
     </summary>
     <br />
-    <img src="https://duolingo-stats-card.vercel.app/api?username=Kevin_Peter" alt="Duolingo Stats">
+    <img src="https://duolingo-stats-card.vercel.app/api?username=Kevin_Peter&sort=xp" alt="Duolingo Stats">
 </details>
 </div> 
