@@ -7,7 +7,7 @@
 <div align="left">
 <h3>🎉 I love solving challenges by experimenting with the latest technologies! </h3>
 
-▶️ I'm currently working as a Software Consulting Engineer at Cisco. I graduated from [Manipal University Jaipur](https://jaipur.manipal.edu "College website!") with a bachelor's degree in Computer Science & Engineering.
+▶️ I'm a grad student at New York University, pursuing a Master's degree in Computer Science. Previously, I worked as a Software Consulting Engineer at Cisco, where I took on multiple roles involving design, development, testing and deployment of Network Automation solutions for major Telecom companies. Prior to starting my professional journey, I graduated from [Manipal University Jaipur](https://jaipur.manipal.edu "MUJ Website") with a Bachelor's degree in Computer Science & Engineering.
 
 💖 I love football, photography, editing videos, astronomy, lo-fi music and all things tech.
 
