@@ -7,15 +7,16 @@
 <div align="left">
 <h3>🎉 I love solving challenges by experimenting with the latest technologies! </h3>
 
-▶️ I'm a grad student at [New York University](https://www.nyu.edu/), pursuing a Master's degree in Computer Science. Previously, I worked as a Software Consulting Engineer at [Cisco](https://cisco.com), where I took on multiple roles involving design, development, testing and deployment of Network Automation solutions for major Telecom companies. Prior to starting my professional journey, I graduated from [Manipal University Jaipur](https://jaipur.manipal.edu "MUJ Website") with a Bachelor's degree in Computer Science & Engineering.
+👨🏻‍🎓 I'm currently diving deep into the world of AI, ML, Deep Learning, and Computer Vision as a grad student at [New York University](https://www.nyu.edu/). Previously, I worked as a Software Consulting Engineer at [Cisco](https://cisco.com), where I took on multiple roles involving design, development, testing and deployment of Network Automation solutions for major Telecom companies. Prior to starting my professional journey, I graduated from [Manipal University Jaipur](https://jaipur.manipal.edu "MUJ Website") with a Bachelor's degree in Computer Science & Engineering.
 
-💖 I love football, photography, editing videos, astronomy, lo-fi music and all things tech.
+💖 Outside the tech bubble, I'm a football fanatic, a photography enthusiast, a video editing geek, an astronomy admirer, a lo-fi music lover, a language learner, and an all-around tech aficionado.
 
-👉🏽 Hop onto my personal website  [kevzpeter.com](https://kevzpeter.com)
+🌐 Hop onto my personal website - [kevzpeter.com](https://kevzpeter.com)
 
-💼 Connect with me on [LinkedIn](https://linkedin.com/in/kevinpeterk)
+💼 Let's connect on [LinkedIn](https://linkedin.com/in/kevinpeterk)!
 
 🧑🏽‍💻 Checkout my coding profile on [LeetCode](https://leetcode.com/kevzpeter)
+
 </div>
 
 <br/>
@@ -57,4 +58,4 @@
     <br />
     <img src="https://duolingo-stats-card.vercel.app/api?username=Kevin_Peter&sort=xp" alt="Duolingo Stats">
 </details>
-</div> 
+</div>
