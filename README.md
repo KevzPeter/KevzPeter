@@ -1,7 +1,7 @@
 <div align="left">
     <h1>👋🏻 Hey! I'm <a href="https://kevzpeter.com" target="_blank">Kevin</a></h1>
     <br/>
-    <img src="./gifs/chill-dev-pixel-art.gif" height="300px" width="auto">
+    <img src="./gifs/chill-dev-pixel-art.gif"  width="auto">
 <div>
 
 <div align="left">
