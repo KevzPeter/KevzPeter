@@ -8,7 +8,7 @@
 
 👨🏻‍🎓 I'm a grad student at [New York University](https://www.nyu.edu/), majoring in Computer Science, currently working on several projects in AI, Deep Learning and Computer Vision. Last summer ('25), I interned at [Adobe](https://www.adobe.com/) as a Software Engineer, where I got to work on [Adobe Express](https://www.adobe.com/express/). Before grad school, I worked as a Software Engineer at [Cisco](https://cisco.com), where I took on multiple roles involving design, development, testing and deployment of software automation solutions for major telecom companies.
 
-💖 Outside the tech bubble, I love everything related to football (⚽), taking photos when I'm exploring new cities, editing videos for my side Youtube channels, playing FPS/indie games, learning new languages & listening to chill lo-fi music.
+💖 Outside the tech bubble, I love everything related to football ⚽, taking photos when I'm exploring new cities, editing videos for my side Youtube channels, playing FPS/indie games, learning new languages & listening to chill lo-fi music.
 
 🌐 Hop onto my personal website - [kevzpeter.com](https://kevzpeter.com)
 
