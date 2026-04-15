@@ -17,35 +17,36 @@
 🧑🏽‍💻 Checkout my coding profile on [LeetCode](https://leetcode.com/kevzpeter)
 
 </div>
-
-<br/>
 <div align="left">
-<details>
+<!-- <details>
     <summary>
     📈 Github stats for nerds
     </summary>
     <br />
     <img src="https://github-readme-stats-5udv09b4j-kevzpeter.vercel.app/api?username=kevzpeter&border_radius=10px&title_color=fff&text_color=fff&show_icons=true&bg_color=45,00DFA0,4739DF&icon_color=212121&hide_border=true&rank_icon=github" alt="Github Stats">
-</details>
+</details> -->
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=kevzpeter&theme=github-dark&filter=submission&animated=true&border=no-border" alt="LeetCode Badges">
 
 <br />
+<br />
 
-<details>
+<img src="https://duolingo-stats-card.vercel.app/api?username=Kevin_Peter&sort=xp&theme=github-dark" alt="Duolingo Stats">
+
+<!-- <details>
     <summary>
     🎵 What I've been listening to
     </summary>
     <br />
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=kevzpeter" alt="Spotify Recently Played">
-</details>
+</details> -->
 
-<br />
-
-<details>
+<!-- <details>
     <summary>
     🧑🏽‍💻 LeetCode
     </summary>
     <br />
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=kevzpeter&theme=beach&filter=comp&animated=true&border=no-border" alt="LeetCode Badges">
+
 </details>
 
 <br />
@@ -55,6 +56,6 @@
     🦉 Duolingo
     </summary>
     <br />
-    <img src="https://duolingo-stats-card.vercel.app/api?username=Kevin_Peter&sort=xp" alt="Duolingo Stats">
-</details>
+
+</details> -->
 </div>
