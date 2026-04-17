@@ -26,12 +26,16 @@
     <img src="https://github-readme-stats-5udv09b4j-kevzpeter.vercel.app/api?username=kevzpeter&border_radius=10px&title_color=fff&text_color=fff&show_icons=true&bg_color=45,00DFA0,4739DF&icon_color=212121&hide_border=true&rank_icon=github" alt="Github Stats">
 </details> -->
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=kevzpeter&theme=github-dark&filter=submission&animated=true&limit=8" alt="LeetCode Badges">
+<a href="https://leetcode.com/kevzpeter" target="_blank" rel="noopener noreferrer">
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=kevzpeter&theme=github-dark&filter=submission&animated=true&limit=8" alt="LeetCode Badges">
+</a>
 
 <br />
 <br />
 
-<img src="https://duolingo-stats-card.vercel.app/api?username=Kevin_Peter&sort=xp&theme=github-dark" alt="Duolingo Stats">
+<a href="https://www.duolingo.com/profile/Kevin_Peter" target="_blank" rel="noopener noreferrer">
+    <img src="https://duolingo-stats-card.vercel.app/api?username=Kevin_Peter&sort=xp&theme=github-dark" alt="Duolingo Stats">
+</a>
 
 <!-- <details>
     <summary>
