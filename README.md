@@ -26,7 +26,7 @@
     <img src="https://github-readme-stats-5udv09b4j-kevzpeter.vercel.app/api?username=kevzpeter&border_radius=10px&title_color=fff&text_color=fff&show_icons=true&bg_color=45,00DFA0,4739DF&icon_color=212121&hide_border=true&rank_icon=github" alt="Github Stats">
 </details> -->
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=kevzpeter&theme=github-dark&filter=submission&animated=true&border=no-border" alt="LeetCode Badges">
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=kevzpeter&theme=github-dark&filter=submission&animated=true&limit=8" alt="LeetCode Badges">
 
 <br />
 <br />
